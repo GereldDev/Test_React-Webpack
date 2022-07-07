@@ -15,7 +15,7 @@ function App() {
             <img src={logo} width="25"  alt="react logo" />
             </h1>
             <div>
-            <label htmlFor="name">Nombre: </label>
+            <label htmlFor="name">name: </label>
             <input
                 id="name"
                 type="text"
@@ -28,8 +28,20 @@ function App() {
         );
     }
 
+            
+
+        
+
+
+
+   
+
    
   
     export default App;
+
+    
+
+
 
 
