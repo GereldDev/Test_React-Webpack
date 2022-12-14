@@ -3,6 +3,6 @@
 ---- 
 ----
 
->
+> pronto habra actualizaciones de React with redux , Ionic React
 
 ### Contact Gerelddev :bulb:
